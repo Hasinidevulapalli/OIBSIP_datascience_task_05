@@ -22,7 +22,6 @@ The aim of this project is to predict product sales based on different advertisi
 4. **Model Training**  
    - Implemented regression models including:
      - Linear Regression  
-     - Random Forest Regressor  
    - Split data into training and test sets for evaluation.
 
 5. **Model Evaluation**  
